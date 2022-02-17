@@ -29,6 +29,7 @@ Print the value of count, which has the number of words in the file
 ### Step 8:
 Stop
 ## PROGRAM:
+```
 #Developed by:- Kandukuri Sai Eswar
 #Reference number:- 21000679
 count =0
@@ -37,7 +38,7 @@ with open('recordText','r') as text:
         word = i.split()
         count+=len(word)
 print('The number of words in the  file',text.name,'are :',count)
-
+```
 ### OUTPUT:
 
 
