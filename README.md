@@ -39,8 +39,9 @@ with open('recordText','r') as text:
         count+=len(word)
 print('The number of words in the  file',text.name,'are :',count)
 ```
-### OUTPUT:
-
+## OUTPUT:
+![Output](./output1.png)
+![Output](./output2.png)
 
 
 ## RESULT:
