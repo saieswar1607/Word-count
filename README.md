@@ -40,7 +40,7 @@ with open('recordText','r') as text:
 print('The number of words in the  file',text.name,'are :',count)
 ```
 ## OUTPUT:
-![Output](./output_1.png)
+<img width="823" alt="Screenshot 2022-02-22 at 2 27 07 PM" src="https://user-images.githubusercontent.com/93427011/155097608-43ff0228-a14b-4c34-88d2-143622f6c4f1.png">
 ![Output](./output_2.png)
 
 
